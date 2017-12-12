@@ -1,0 +1,46 @@
+﻿  ShadowMap.cpp
+ShadowMap\ShadowMap.cpp(86): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(299): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+ShadowMap\ShadowMap.cpp(335): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(398): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(399): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(403): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(404): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(406): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(407): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+ShadowMap\ShadowMap.cpp(414): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+SOIL.lib(stb_image_aug.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  0 of 282 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform3fv imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform4f imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform4fv imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform3f imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniformMatrix2fv imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewShaderSource imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewAttachShader imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform1f imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform2f imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform1i imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniform2fv imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewCreateShader imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewCompileShader imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUseProgram imported
+OpenLibs.lib(ShaderHelper.obj) : warning LNK4049: locally defined symbol ___glewUniformMatrix3fv imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\chenyu\Documents\Visual Studio 2015\Projects\OpenGlPractice\Release\vc120.pdb'; linking object as if no debug info
+  OpenGlPractice.vcxproj -> C:\Users\chenyu\Documents\Visual Studio 2015\Projects\OpenGlPractice\Release\OpenGlPractice.exe
+  OpenGlPractice.vcxproj -> C:\Users\chenyu\Documents\Visual Studio 2015\Projects\OpenGlPractice\Release\OpenGlPractice.pdb (Full PDB)
